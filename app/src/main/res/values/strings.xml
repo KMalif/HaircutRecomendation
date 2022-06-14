@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Haircutz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Home">Home</string>
+    <string name="Predict">Predict</string>
+    <string name="User">User</string>
+    <string name="greet">Wellcome back</string>
+    <string name="name">Jhon Doe</string>
+    <string name="trending">Trending</string>
+    <string name="mitra">Our Partner</string>
+    <string name="Profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="createAccount">Create Account</string>
+    <string name="Password">Password</string>
+    <string name="userName">Username</string>
+    <string name="pleaseLogin">Please Login \nwith Your Account</string>
+    <string name="Register">Register</string>
+    <string name="Email">Email</string>
+    <string name="haircutName">Top Fade</string>
+    <string name="barberName">Scisorism</string>
+    <string name="barberAddress">Jl. Sumbodro Tegal</string>
+    <string name="Maps">Maps</string>
+    <string name="Placeholder">Placeholder</string>
+    <string name="ChooseImg">Choose Image</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Camera">Camera</string>
+    <string name="Favorites">Favorites</string>
+    <string name="open_camera">open camera</string>
+    <string name="Name">Name</string>
+    <string name="EmailAddress">jhondoe@gmail.com</string>
+    <string name="YourFavorites">Your Favorites Haircuts</string>
+    <string name="News">News</string>
+    <string name="PasswordHashed">*************</string>
+    <string name="HeadFashion">Head Fashion</string>
+    <string name="Headlines">Headlines</string>
+    <string name="NewsDesc">NewsDesc</string>
+    <string name="EditProfiles">Edit Profiles</string>
+    <string name="NewPassword">New Password</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="save">Save</string>
+    <string name="location">Location</string>
+    <string name="Crew">Crew</string>
+    <string name="address">Address</string>
+    <string name="crewCount">10</string>
+    <string name="upload">Upload</string>
+    <string name="logout">Logout</string>
+    <string name="Message">Message</string>
+    <string name="Chat">Chat</string>
+    <string name="Longorshort">Long or Short</string>
+    <string name="YourHair">Your hair</string>
+    <string-array name="hair">
+        <item>panjang</item>
+        <item>pendek</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+    <string name="ChooseImage">Choose Image</string>
+    <string name="Shape">Square</string>
+    <string name="Recomendations">Recomendations</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoia21hbGlmIiwiYSI6ImNreDNzcDNnOTIxb3EybnFvOXQzeDM4dXMifQ.lPt699H_sWCQeyJamXrD5A</string>
+    <string name="Blank">" "</string>
+    <string name="chatMessage">This is a sample message that will appear</string>
+    <string name="haircut">Haircuts</string>
+    <string name="Detail">Detail</string>
+    <string name="Gender">Gender</string>
+    <string name="NoHp">Phone Number</string>
+    <string name="Booking">Booking</string>
+    <string name="waitingList">Waiting list</string>
+    <string name="Antre">1</string>
+    <string name="status">Waiting</string>
+    <string name="You">You</string>
+    <string name="date">1 June</string>
+    <string name="Articles">Articles</string>
+</resources>
